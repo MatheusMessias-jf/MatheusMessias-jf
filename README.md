@@ -25,11 +25,7 @@ I'm Matheus, a developer in career transition, getting back to doing what I love
   <img src="https://img.shields.io/badge/React_Router-FFF?style=for-the-badge&logo=react-router&logoColor=black" />
   <img src="https://img.shields.io/badge/styled--components-FFF?style=for-the-badge&logo=styled-components&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-FFF?style=for-the-badge&logo=tailwind-css&logoColor=blue" />
-
-<br>
-- In progress: 
-
-<img src="https://img.shields.io/badge/Flutter-FFF?style=for-the-badge&logo=flutter&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Flutter-FFF?style=for-the-badge&logo=flutter&logoColor=blue" />
  
 </div>
 
